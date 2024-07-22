@@ -1,0 +1,10 @@
+/workspace/Blended-App/greeting/target/release/deps/libfluentbase_sdk_derive-d8c6c861b6c37e22.so: /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/lib.rs /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/codec_router.rs /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/contract.rs /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/solidity_router.rs /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/solidity_storage.rs /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/utils.rs
+
+/workspace/Blended-App/greeting/target/release/deps/fluentbase_sdk_derive-d8c6c861b6c37e22.d: /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/lib.rs /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/codec_router.rs /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/contract.rs /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/solidity_router.rs /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/solidity_storage.rs /workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/utils.rs
+
+/workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/lib.rs:
+/workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/codec_router.rs:
+/workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/contract.rs:
+/workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/solidity_router.rs:
+/workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/solidity_storage.rs:
+/workspace/.cargo/git/checkouts/fluentbase-7646915b8a80fc76/05f1fc7/crates/sdk-derive/src/utils.rs:
